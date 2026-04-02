@@ -42,13 +42,6 @@ Click the Run (Green Arrow) icon at the top toolbar.
 
 Wait for execution to finish and check the Log Viewer for results.
 
-4. Reporting
-After running the Test Suite, you can find the detailed execution report in:
-
-Reports/ folder inside the project directory.
-
-The reports include step-by-step logs, status codes, and assertion results.
-
 Reports/ folder inside the project directory.
 
 The reports include step-by-step logs, status codes, and assertion results.
