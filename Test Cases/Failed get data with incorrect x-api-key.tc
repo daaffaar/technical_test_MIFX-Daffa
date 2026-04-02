@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Failed get data with incorrect x-api-key</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61c2b0d8-bd2c-4850-b2c6-2cf69ff2fca9</testCaseGuid>
+</TestCaseEntity>

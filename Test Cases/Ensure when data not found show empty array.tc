@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure when data not found show empty array</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efd0159f-8f44-4f04-8516-56a79bc3fde7</testCaseGuid>
+</TestCaseEntity>

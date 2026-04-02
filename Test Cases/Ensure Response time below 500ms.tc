@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure Response time below 500ms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce7aa591-1b25-4346-bbaa-f08c9993ed30</testCaseGuid>
+</TestCaseEntity>

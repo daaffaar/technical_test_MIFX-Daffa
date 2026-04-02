@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success get data with correct x-api-key</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a142ba54-2967-43e3-b2db-030a58ee3df9</testCaseGuid>
+</TestCaseEntity>

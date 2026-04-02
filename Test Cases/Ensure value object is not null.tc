@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure value object is not null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0b17d93-24a8-4bba-a56a-26a518acc1ef</testCaseGuid>
+</TestCaseEntity>

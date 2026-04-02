@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify value page in response match with params</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f66940b-2983-4799-ad34-2ecdc495a56d</testCaseGuid>
+</TestCaseEntity>
